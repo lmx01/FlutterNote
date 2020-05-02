@@ -16,7 +16,7 @@
     * [2.4.下拉刷新 介绍](ui/4.pullFresh.md)
     * [2.5. 生命周期](ui/5.Life.md)
     * [2.6. 组件可见性](ui/6.visiblity.md)
-    * [2.7. 动画](ui/7. animation.md)
+    * [2.7. 动画](ui/7.animation.md)
 * [3. 常用工具](tool/README.md)
     * [3.1.JSON 实例化](tool/1.JSON实例化.md)
     * [3.2.阿里巴巴矢量图标使用](tool/2.阿里巴巴矢量图标使用.md)
