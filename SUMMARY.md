@@ -3,6 +3,9 @@
 * [Flutter](README.md)
 * [0. 规范](style/README.md)
     * [1.1 命名.md](style/name.md)
+    * [1.2 代码布局.md](style/code.md)
+    * [1.3 格式化.md](style/format.md)
+    * [1.4 注释.md](style/comment.md)
 * [1. Dart](dart/README.md)
     * [1.1.基础](dart/1.base.md)
     * [1.2.类](dart/2.class.md)
@@ -26,4 +29,7 @@
 * [5. Flutter实战](app/README.md)
     * [5.1 Flutter发布](app/1.发布.md)
     * [5.2 Flutter启动屏设置](app/2.Splash.md)
+* [6. 其他](other/README.md)
+    * [6.1 Flutter调用Android](other/1.Android.md)
+    * [6.2 Flutter调用ios](other/2.ios.md)
 
